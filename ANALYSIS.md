@@ -177,4 +177,4 @@ The scale times above are measured from process start to result (including JVM s
 
 - Course materials: assignment text, `docs/LECTURE_CLARIFICATIONS_EN_RU.md`, lectures 8–10 (DP patterns, KMP/hashing, suffix arrays/Kasai/Aho–Corasick).
 - **AI assistance:** Ai was used for brainstorming, debugging and small assistance in tasks.
-- **My own verification:** _[fill in: what you read, re-derived and checked yourself, e.g. traced each algorithm by hand on the examples, reran the checks and benchmark]_
+
