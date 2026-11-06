@@ -3,7 +3,7 @@
 ## Environment and commands
 
 - Language: Java (compiled with `--release 17`), runtime OpenJDK 21.0.12.1 (Temurin), launcher Python 3.14.8.
-- Machine: Windows 11 Pro, Intel Core i7-13620H, 15.6 GB RAM.
+- Machine: Windows 11 Pro, Intel Core i7-13620H, 15.6 GB RAM, Laptop RTX4070 .
 - Source: `Java/source/Algorithms.java` (all eight commands). `Main.java` and `Json.java` are the supplied transport and are unchanged.
 
 ```sh
